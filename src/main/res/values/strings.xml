@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Adapter_Department</string>
+    <string name="department_name" >Department Name</string>
+    <string name="head_of_the_department" >Head of the Department</string>
+    <string name="contact_details">Contact Details</string>
+
+
+
+    <string-array name="department_name">
+        <item>Computer Science And Engineering</item>
+        <item>Electrical And Electronics Engineering</item>
+        <item>Information Technology</item>
+        <item>Fashion Technology</item>
+        <item>Electronics and Communication Engineering</item>
+        <item>Civil Engineering</item>
+        <item>Bio Medical Engineering</item>
+    </string-array>
+
+    <string-array name="department_Hod_list">
+        <item>Dr.B.Sathiyabhama, M.Tech., Ph.D</item>
+        <item>Dr.S.Padma, M.E., Ph.D.</item>
+        <item>Dr.J.Akilandeswari M.E., Ph.D.</item>
+        <item>Dr.D.Raja, Ph.D</item>
+        <item>Dr.R.S.Sabeenian</item>
+        <item>Dr.R.Malathy,Ph.D</item>
+        <item>Dr.R.S.Sabeenian,Ph.D</item>
+    </string-array>
+
+    <string-array name="department_contact_number">
+        <item>+91 – 427 – 2443545, 4099744</item>
+        <item>91 – 427 – 4099739</item>
+        <item>+91 – 427 – 4099999 / 4099835</item>
+        <item>+91 – 427 – 4099999 / 4099835</item>
+        <item>91 – 427 – 2443545, 4099777</item>
+        <item>+91 – 427 – 4099766</item>
+        <item>91 – 427 – 2443545, 4099777</item>
+    </string-array>
+</resources>
